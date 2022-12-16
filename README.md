@@ -1,3 +1,9 @@
+# Deprecation Warning
+
+⚠️ Please use [next-use-search-params](https://github.com/jokull/next-search-params) instead
+
+---
+
 # `useQueryParam()`
 
 Type-safe query param handling for [Next.js](https://nextjs.org/) using zod.
