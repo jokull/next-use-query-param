@@ -1,6 +1,6 @@
 # Deprecation Warning
 
-⚠️ Please use [next-use-search-params](https://github.com/jokull/next-search-params) instead
+⚠️ Please use [next-use-search-params](https://github.com/jokull/next-use-search-params) instead
 
 ---
 
